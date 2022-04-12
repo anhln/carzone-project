@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ws3j8g1y6tp0g5yiv1isq_33p-0l8)&*z1x&a1g4*gb^v-qnhz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://aqueous-shore-47394.herokuapp.com/']
+ALLOWED_HOSTS = ['aqueous-shore-47394.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
