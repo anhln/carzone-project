@@ -1,9 +1,15 @@
-# **Car Show Website**
-
+# **Car Zone Website**
+![Screenshot](https://github.com/anhln/carzone-project/blob/main/screenshot.png)
+![Screenshot](https://github.com/anhln/carzone-project/blob/main/screenshot-1.png)
 ## Technologies
-[Python](https://www.python.org/)
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
-[Django](https://www.djangoproject.com/)
+## Development
 
-[Bootstrap](https://getbootstrap.com/)
+
+### Getting Started
+
+### About Car Zone Website
 
